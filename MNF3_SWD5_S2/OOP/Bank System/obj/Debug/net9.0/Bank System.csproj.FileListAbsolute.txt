@@ -1,0 +1,14 @@
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\Bank System\bin\Debug\net9.0\Bank System.exe
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\Bank System\bin\Debug\net9.0\Bank System.deps.json
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\Bank System\bin\Debug\net9.0\Bank System.runtimeconfig.json
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\Bank System\bin\Debug\net9.0\Bank System.dll
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\Bank System\bin\Debug\net9.0\Bank System.pdb
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\Bank System\obj\Debug\net9.0\Bank System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\Bank System\obj\Debug\net9.0\Bank System.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\Bank System\obj\Debug\net9.0\Bank System.AssemblyInfo.cs
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\Bank System\obj\Debug\net9.0\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\Bank System\obj\Debug\net9.0\Bank System.dll
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\Bank System\obj\Debug\net9.0\refint\Bank System.dll
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\Bank System\obj\Debug\net9.0\Bank System.pdb
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\Bank System\obj\Debug\net9.0\Bank System.genruntimeconfig.cache
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\Bank System\obj\Debug\net9.0\ref\Bank System.dll
