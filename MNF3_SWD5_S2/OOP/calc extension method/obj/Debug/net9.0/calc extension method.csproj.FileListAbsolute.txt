@@ -1,0 +1,14 @@
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\calc extension method\obj\Debug\net9.0\calc extension method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\calc extension method\obj\Debug\net9.0\calc extension method.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\calc extension method\obj\Debug\net9.0\calc extension method.AssemblyInfo.cs
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\calc extension method\obj\Debug\net9.0\calc extension method.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\calc extension method\bin\Debug\net9.0\calc extension method.exe
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\calc extension method\bin\Debug\net9.0\calc extension method.deps.json
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\calc extension method\bin\Debug\net9.0\calc extension method.runtimeconfig.json
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\calc extension method\bin\Debug\net9.0\calc extension method.dll
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\calc extension method\bin\Debug\net9.0\calc extension method.pdb
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\calc extension method\obj\Debug\net9.0\calc extension method.dll
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\calc extension method\obj\Debug\net9.0\refint\calc extension method.dll
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\calc extension method\obj\Debug\net9.0\calc extension method.pdb
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\calc extension method\obj\Debug\net9.0\calc extension method.genruntimeconfig.cache
+C:\Users\dell\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\MNF3_SWD5_S2\C#\OOP\calc extension method\obj\Debug\net9.0\ref\calc extension method.dll
